@@ -15,13 +15,13 @@
 
 ## 🌐 Socials
 <p align="left">
-<a href="https://linkedin.com/in/dinansh" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="dinansh" fill="white" height="30" width="50" /></a>
-<a href="https://kaggle.com/vision6" target="blank"><img align="center" src="https://www.kaggle.com/static/images/site-logo.svg" alt="vision6" height="30" width="60" /></a>
-<a href="https://www.hackerrank.com/dinansh" target="blank"><img align="center" src="https://hrcdn.net/fcore/assets/work/header/hackerrank_logo-21e2867566.svg" alt="dinansh" height="30" width="50" /></a>
-<a href="https://www.leetcode.com/dinansh" target="blank"><img align="center" src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" alt="dinansh" height="30" width="30" /></a>
-<a href="https://www.hackerearth.com/@dinansh" target="blank"><img align="center" src="https://static-fastly.hackerearth.com/static/hackerearth/images/assessment_marketing/he-footer-logo.svg" alt="@dinansh" height="30" width="50" /></a>
-<a href="https://www.codechef.com/users/vision6" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="vision6" height="30" width="60" /></a>
-<a href="https://unsplash.com/@dinansh" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Logo_of_Unsplash.svg" alt="@dinansh" fill="white" height="30" width="50" /></a>
+<a href="https://linkedin.com/in/dinansh" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="dinansh" fill="white" height="30" width="50" /></a>
+<a href="https://kaggle.com/vision6" target="_blank"><img align="center" src="https://www.kaggle.com/static/images/site-logo.svg" alt="vision6" height="30" width="60" /></a>
+<a href="https://www.hackerrank.com/dinansh" target="_blank"><img align="center" src="https://hrcdn.net/fcore/assets/work/header/hackerrank_logo-21e2867566.svg" alt="dinansh" height="30" width="50" /></a>
+<a href="https://www.leetcode.com/dinansh" target="_blank"><img align="center" src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" alt="dinansh" height="30" width="30" /></a>
+<a href="https://www.hackerearth.com/@dinansh" target="_blank"><img align="center" src="https://static-fastly.hackerearth.com/static/hackerearth/images/assessment_marketing/he-footer-logo.svg" alt="@dinansh" height="30" width="50" /></a>
+<a href="https://www.codechef.com/users/vision6" target="_blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="vision6" height="30" width="60" /></a>
+<a href="https://unsplash.com/@dinansh" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Logo_of_Unsplash.svg" alt="@dinansh" fill="white" height="30" width="50" /></a>
 </p>
 
 
@@ -70,12 +70,14 @@
  </p>
 
 
-## 🏆 GitHub Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinansh" alt="dinansh" /></a> </p>
+## 🏆 GitHub Trophies 
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinansh" alt="dinansh" /></a> 
+</p>
 
 
-## 📊 GitHub Stats:
-<p>&nbsp;
+## 📊 GitHub Stats
+<p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinansh&show_icons=true&locale=en" alt="dinansh" />
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=dinansh&show_icons=true&locale=en" alt="dinansh" />
 </p>
